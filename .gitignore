@@ -1,0 +1,9 @@
+.idea
+__pycache__
+test.*
+*.test
+/.env.development
+/实训报告打分/assets/*
+!/实训报告打分/assets/README.md
+/实训报告打分/dist/*
+!/实训报告打分/dist/README.md
